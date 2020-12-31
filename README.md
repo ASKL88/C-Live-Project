@@ -77,6 +77,8 @@ Front End:
 
 Fixed spacing and width issues with Award Preview Card. Created CSS class to resolve issue with navbar and top margin placement. 
 
+
+
 <div class="card awardPreview bg-black border border-light mx-auto sticky-top">
         <div class="card-body">
                 <!-- Removed line breaks in Award Preview Card -->
@@ -86,6 +88,11 @@ Fixed spacing and width issues with Award Preview Card. Created CSS class to res
     max-width: 600px;
     top: 65px;
 }
+
+
+
+
+
 
 
 Working in a group of developers on all aspects of the project like front end, back end, and management showed me how a project can come together piece by piece. The AGILE/SCRUM daily meetimgs taught me experience in team communication. Azure Devops experience was valuable. 
