@@ -82,10 +82,12 @@ Fixed spacing and width issues with Award Preview Card. Created CSS class to res
 .awardPreview {
     max-width: 600px;
     top: 65px;
-}<div class="card awardPreview bg-black border border-light mx-auto sticky-top">
+}
+
+<div class="card awardPreview bg-black border border-light mx-auto sticky-top">
         <div class="card-body">
-                <!-- Removed line breaks in Award Preview Card -->
-                <!-- <br><br /> -->
+                < Removed line breaks in Award Preview Card -->
+                < <br><br /> -->
 
 
 
