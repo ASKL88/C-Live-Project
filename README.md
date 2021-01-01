@@ -1,8 +1,8 @@
-# C Theater Internship
+C# Theater Internship
 
 Introduction:
 
-For the last two weeks of my Prosper IT Consulting internship, I worked with a team of developers to maintain and build a content website for Vertigo Theater Company. The team was working on developing a full scale MVC Web Application in C#/.Net. Working with Azure DevOps to ensure steady workflow and team management created a professional coding environment. I saw how a good developer works in a team building piece by piece for the final product. I worked on front end and back end stories improving styling or working with data. Over the two week sprint, I gained experience in AGILE/SCRUM methods and am confident I will use all these skills on future projects. 
+The two week spring of my Prosper IT Consulting internship, I worked with a team of developers to maintain and build a content website for Vertigo Theater Company. The team was working on developing a full scale MVC Web Application in C#/.Net. Working with Azure DevOps to ensure steady workflow and team management created a professional coding environment. I saw how a good developer works in a team building piece by piece for the final product. I worked on front end and back end stories improving styling or working with data. Over the two week sprint, I gained experience in AGILE/SCRUM methods and am confident I will use all these skills on future projects. 
 
 Rental Model: 
 
@@ -96,4 +96,4 @@ Fixed spacing and width issues with Award Preview Card. Created CSS class to res
 
 
 
-Working in a group of developers on all aspects of the project like front end, back end, and management showed me how a project can come together piece by piece. The AGILE/SCRUM daily meetimgs taught me experience in team communication. Azure Devops experience was valuable. 
+Working in a group of developers on all aspects of the project like front end, back end, and management showed me how a project can come together piece by piece. The AGILE/SCRUM daily meetings taught me experience in team communication. Azure Devops experience was valuable. 
