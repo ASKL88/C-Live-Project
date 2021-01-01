@@ -1,4 +1,4 @@
-# C-Live-Project
+# C Theater Internship
 
 Introduction:
 
