@@ -80,15 +80,15 @@ Front End:
 
 Fixed spacing and width issues with Award Preview Card. Created CSS class to resolve issue with navbar and top margin placement. 
 
-.awardPreview {
-    max-width: 600px;
-    top: 65px;
-}
+        .awardPreview {
+            max-width: 600px;
+            top: 65px;
+        }
 
-<div class="card awardPreview bg-black border border-light mx-auto sticky-top">
-        <div class="card-body">
-                < Removed line breaks in Award Preview Card -->
-                < <br><br /> -->
+        <div class="card awardPreview bg-black border border-light mx-auto sticky-top">
+                <div class="card-body">
+                        < Removed line breaks in Award Preview Card -->
+                        < <br><br /> -->
 
 
 
