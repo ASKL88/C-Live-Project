@@ -4,6 +4,8 @@ Introduction:
 
 During my Prosper IT Consulting internship, I was part of a two week sprint working with a team of developers to maintain and build a content website for Vertigo Theater Company. The team was working on developing a full scale MVC Web Application in C#/.Net. Working with Azure DevOps to ensure steady workflow and team management created a professional coding environment. I saw how a good developer works in a team building piece by piece for the final product. I worked on front end and back end stories improving styling or working with data. Over the two week sprint, I gained experience in AGILE/SCRUM methods and am confident I will use all these skills on future projects. 
 
+![Theaterimage](/theater2.PNG?raw=true "Optional Title")  
+
 Rental Model: 
 
 I created a Rental model that represents the physical items or rooms that a User can rent. I created a one to many relationship between the RentalRequest table and the Rental table.
