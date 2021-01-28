@@ -73,6 +73,9 @@ I created a Rentel Request model that represents when a company or individual wo
         }
 
 
+
+![Theaterimage](/theater.PNG?raw=true "Optional Title")      
+
 Front End:
 
 Fixed spacing and width issues with Award Preview Card. Created CSS class to resolve issue with navbar and top margin placement. 
